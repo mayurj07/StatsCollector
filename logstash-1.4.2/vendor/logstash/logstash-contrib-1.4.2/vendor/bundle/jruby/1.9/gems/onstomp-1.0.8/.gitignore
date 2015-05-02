@@ -1,0 +1,15 @@
+.DS_Store
+pkg/*
+*.gem
+.bundle
+.yardoc
+doc
+coverage
+turbulence
+Gemfile.lock
+*~
+*.swp
+tags
+other
+.ruby-version
+.ruby-gemset
