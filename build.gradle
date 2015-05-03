@@ -15,7 +15,7 @@ apply plugin: 'idea'
 apply plugin: 'spring-boot'
 
 jar {
-    baseName = 'cmpe283'
+    baseName = 'cmpe283-StatsCollector'
     version =  '0.1.0'
 }
 
